@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/tableflip/react-native-select-multiple.svg?branch=master)](https://travis-ci.org/tableflip/react-native-select-multiple)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+** This package has been deprecated. Please install [@horizonlime/react-native-select-multiple](https://www.npmjs.com/package/@horizonlime/react-native-select-multiple) for the supported version. **
+
 A customizable FlatList that allows you to select multiple rows AND:
 - display checkboxes as disabled
 - use icons instead of images
